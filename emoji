@@ -20,6 +20,7 @@
 ☺ smiling face
 😚 kissing face with closed eyes
 😙 kissing face with smiling eyes
+🥲 smiling face with tear
 😋 face savoring food
 😛 face with tongue
 😜 winking face with tongue
@@ -58,6 +59,7 @@
 🤯 exploding head
 🤠 cowboy hat face
 🥳 partying face
+🥸 disguised face
 😎 smiling face with sunglasses
 🤓 nerd face
 🧐 face with monocle
@@ -195,6 +197,12 @@
 👌🏽 OK hand: medium skin tone
 👌🏾 OK hand: medium-dark skin tone
 👌🏿 OK hand: dark skin tone
+🤌 pinched fingers
+🤌🏻 pinched fingers: light skin tone
+🤌🏼 pinched fingers: medium-light skin tone
+🤌🏽 pinched fingers: medium skin tone
+🤌🏾 pinched fingers: medium-dark skin tone
+🤌🏿 pinched fingers: dark skin tone
 🤏 pinching hand
 🤏🏻 pinching hand: light skin tone
 🤏🏼 pinching hand: medium-light skin tone
@@ -394,6 +402,8 @@
 👃🏾 nose: medium-dark skin tone
 👃🏿 nose: dark skin tone
 🧠 brain
+🫀 anatomical heart
+🫁 lungs
 🦷 tooth
 🦴 bone
 👀 eyes
@@ -1306,6 +1316,12 @@
 💂🏾‍♀ woman guard: medium-dark skin tone
 💂🏿‍♀️ woman guard: dark skin tone
 💂🏿‍♀ woman guard: dark skin tone
+🥷 ninja
+🥷🏻 ninja: light skin tone
+🥷🏼 ninja: medium-light skin tone
+🥷🏽 ninja: medium skin tone
+🥷🏾 ninja: medium-dark skin tone
+🥷🏿 ninja: dark skin tone
 👷 construction worker
 👷🏻 construction worker: light skin tone
 👷🏼 construction worker: medium-light skin tone
@@ -1378,30 +1394,78 @@
 👳🏾‍♀ woman wearing turban: medium-dark skin tone
 👳🏿‍♀️ woman wearing turban: dark skin tone
 👳🏿‍♀ woman wearing turban: dark skin tone
-👲 man with skullcap
-👲🏻 man with skullcap: light skin tone
-👲🏼 man with skullcap: medium-light skin tone
-👲🏽 man with skullcap: medium skin tone
-👲🏾 man with skullcap: medium-dark skin tone
-👲🏿 man with skullcap: dark skin tone
+👲 person with skullcap
+👲🏻 person with skullcap: light skin tone
+👲🏼 person with skullcap: medium-light skin tone
+👲🏽 person with skullcap: medium skin tone
+👲🏾 person with skullcap: medium-dark skin tone
+👲🏿 person with skullcap: dark skin tone
 🧕 woman with headscarf
 🧕🏻 woman with headscarf: light skin tone
 🧕🏼 woman with headscarf: medium-light skin tone
 🧕🏽 woman with headscarf: medium skin tone
 🧕🏾 woman with headscarf: medium-dark skin tone
 🧕🏿 woman with headscarf: dark skin tone
-🤵 man in tuxedo
-🤵🏻 man in tuxedo: light skin tone
-🤵🏼 man in tuxedo: medium-light skin tone
-🤵🏽 man in tuxedo: medium skin tone
-🤵🏾 man in tuxedo: medium-dark skin tone
-🤵🏿 man in tuxedo: dark skin tone
-👰 bride with veil
-👰🏻 bride with veil: light skin tone
-👰🏼 bride with veil: medium-light skin tone
-👰🏽 bride with veil: medium skin tone
-👰🏾 bride with veil: medium-dark skin tone
-👰🏿 bride with veil: dark skin tone
+🤵 person in tuxedo
+🤵🏻 person in tuxedo: light skin tone
+🤵🏼 person in tuxedo: medium-light skin tone
+🤵🏽 person in tuxedo: medium skin tone
+🤵🏾 person in tuxedo: medium-dark skin tone
+🤵🏿 person in tuxedo: dark skin tone
+🤵‍♂️ man in tuxedo
+🤵‍♂ man in tuxedo
+🤵🏻‍♂️ man in tuxedo: light skin tone
+🤵🏻‍♂ man in tuxedo: light skin tone
+🤵🏼‍♂️ man in tuxedo: medium-light skin tone
+🤵🏼‍♂ man in tuxedo: medium-light skin tone
+🤵🏽‍♂️ man in tuxedo: medium skin tone
+🤵🏽‍♂ man in tuxedo: medium skin tone
+🤵🏾‍♂️ man in tuxedo: medium-dark skin tone
+🤵🏾‍♂ man in tuxedo: medium-dark skin tone
+🤵🏿‍♂️ man in tuxedo: dark skin tone
+🤵🏿‍♂ man in tuxedo: dark skin tone
+🤵‍♀️ woman in tuxedo
+🤵‍♀ woman in tuxedo
+🤵🏻‍♀️ woman in tuxedo: light skin tone
+🤵🏻‍♀ woman in tuxedo: light skin tone
+🤵🏼‍♀️ woman in tuxedo: medium-light skin tone
+🤵🏼‍♀ woman in tuxedo: medium-light skin tone
+🤵🏽‍♀️ woman in tuxedo: medium skin tone
+🤵🏽‍♀ woman in tuxedo: medium skin tone
+🤵🏾‍♀️ woman in tuxedo: medium-dark skin tone
+🤵🏾‍♀ woman in tuxedo: medium-dark skin tone
+🤵🏿‍♀️ woman in tuxedo: dark skin tone
+🤵🏿‍♀ woman in tuxedo: dark skin tone
+👰 person with veil
+👰🏻 person with veil: light skin tone
+👰🏼 person with veil: medium-light skin tone
+👰🏽 person with veil: medium skin tone
+👰🏾 person with veil: medium-dark skin tone
+👰🏿 person with veil: dark skin tone
+👰‍♂️ man with veil
+👰‍♂ man with veil
+👰🏻‍♂️ man with veil: light skin tone
+👰🏻‍♂ man with veil: light skin tone
+👰🏼‍♂️ man with veil: medium-light skin tone
+👰🏼‍♂ man with veil: medium-light skin tone
+👰🏽‍♂️ man with veil: medium skin tone
+👰🏽‍♂ man with veil: medium skin tone
+👰🏾‍♂️ man with veil: medium-dark skin tone
+👰🏾‍♂ man with veil: medium-dark skin tone
+👰🏿‍♂️ man with veil: dark skin tone
+👰🏿‍♂ man with veil: dark skin tone
+👰‍♀️ woman with veil
+👰‍♀ woman with veil
+👰🏻‍♀️ woman with veil: light skin tone
+👰🏻‍♀ woman with veil: light skin tone
+👰🏼‍♀️ woman with veil: medium-light skin tone
+👰🏼‍♀ woman with veil: medium-light skin tone
+👰🏽‍♀️ woman with veil: medium skin tone
+👰🏽‍♀ woman with veil: medium skin tone
+👰🏾‍♀️ woman with veil: medium-dark skin tone
+👰🏾‍♀ woman with veil: medium-dark skin tone
+👰🏿‍♀️ woman with veil: dark skin tone
+👰🏿‍♀ woman with veil: dark skin tone
 🤰 pregnant woman
 🤰🏻 pregnant woman: light skin tone
 🤰🏼 pregnant woman: medium-light skin tone
@@ -1414,6 +1478,24 @@
 🤱🏽 breast-feeding: medium skin tone
 🤱🏾 breast-feeding: medium-dark skin tone
 🤱🏿 breast-feeding: dark skin tone
+👩‍🍼 woman feeding baby
+👩🏻‍🍼 woman feeding baby: light skin tone
+👩🏼‍🍼 woman feeding baby: medium-light skin tone
+👩🏽‍🍼 woman feeding baby: medium skin tone
+👩🏾‍🍼 woman feeding baby: medium-dark skin tone
+👩🏿‍🍼 woman feeding baby: dark skin tone
+👨‍🍼 man feeding baby
+👨🏻‍🍼 man feeding baby: light skin tone
+👨🏼‍🍼 man feeding baby: medium-light skin tone
+👨🏽‍🍼 man feeding baby: medium skin tone
+👨🏾‍🍼 man feeding baby: medium-dark skin tone
+👨🏿‍🍼 man feeding baby: dark skin tone
+🧑‍🍼 person feeding baby
+🧑🏻‍🍼 person feeding baby: light skin tone
+🧑🏼‍🍼 person feeding baby: medium-light skin tone
+🧑🏽‍🍼 person feeding baby: medium skin tone
+🧑🏾‍🍼 person feeding baby: medium-dark skin tone
+🧑🏿‍🍼 person feeding baby: dark skin tone
 👼 baby angel
 👼🏻 baby angel: light skin tone
 👼🏼 baby angel: medium-light skin tone
@@ -1432,6 +1514,12 @@
 🤶🏽 Mrs. Claus: medium skin tone
 🤶🏾 Mrs. Claus: medium-dark skin tone
 🤶🏿 Mrs. Claus: dark skin tone
+🧑‍🎄 mx claus
+🧑🏻‍🎄 mx claus: light skin tone
+🧑🏼‍🎄 mx claus: medium-light skin tone
+🧑🏽‍🎄 mx claus: medium skin tone
+🧑🏾‍🎄 mx claus: medium-dark skin tone
+🧑🏿‍🎄 mx claus: dark skin tone
 🦸 superhero
 🦸🏻 superhero: light skin tone
 🦸🏼 superhero: medium-light skin tone
@@ -1802,24 +1890,24 @@
 🧎🏾‍♀ woman kneeling: medium-dark skin tone
 🧎🏿‍♀️ woman kneeling: dark skin tone
 🧎🏿‍♀ woman kneeling: dark skin tone
-🧑‍🦯 person with probing cane
-🧑🏻‍🦯 person with probing cane: light skin tone
-🧑🏼‍🦯 person with probing cane: medium-light skin tone
-🧑🏽‍🦯 person with probing cane: medium skin tone
-🧑🏾‍🦯 person with probing cane: medium-dark skin tone
-🧑🏿‍🦯 person with probing cane: dark skin tone
-👨‍🦯 man with probing cane
-👨🏻‍🦯 man with probing cane: light skin tone
-👨🏼‍🦯 man with probing cane: medium-light skin tone
-👨🏽‍🦯 man with probing cane: medium skin tone
-👨🏾‍🦯 man with probing cane: medium-dark skin tone
-👨🏿‍🦯 man with probing cane: dark skin tone
-👩‍🦯 woman with probing cane
-👩🏻‍🦯 woman with probing cane: light skin tone
-👩🏼‍🦯 woman with probing cane: medium-light skin tone
-👩🏽‍🦯 woman with probing cane: medium skin tone
-👩🏾‍🦯 woman with probing cane: medium-dark skin tone
-👩🏿‍🦯 woman with probing cane: dark skin tone
+🧑‍🦯 person with white cane
+🧑🏻‍🦯 person with white cane: light skin tone
+🧑🏼‍🦯 person with white cane: medium-light skin tone
+🧑🏽‍🦯 person with white cane: medium skin tone
+🧑🏾‍🦯 person with white cane: medium-dark skin tone
+🧑🏿‍🦯 person with white cane: dark skin tone
+👨‍🦯 man with white cane
+👨🏻‍🦯 man with white cane: light skin tone
+👨🏼‍🦯 man with white cane: medium-light skin tone
+👨🏽‍🦯 man with white cane: medium skin tone
+👨🏾‍🦯 man with white cane: medium-dark skin tone
+👨🏿‍🦯 man with white cane: dark skin tone
+👩‍🦯 woman with white cane
+👩🏻‍🦯 woman with white cane: light skin tone
+👩🏼‍🦯 woman with white cane: medium-light skin tone
+👩🏽‍🦯 woman with white cane: medium skin tone
+👩🏾‍🦯 woman with white cane: medium-dark skin tone
+👩🏿‍🦯 woman with white cane: dark skin tone
 🧑‍🦼 person in motorized wheelchair
 🧑🏻‍🦼 person in motorized wheelchair: light skin tone
 🧑🏼‍🦼 person in motorized wheelchair: medium-light skin tone
@@ -1898,13 +1986,13 @@
 🕺🏽 man dancing: medium skin tone
 🕺🏾 man dancing: medium-dark skin tone
 🕺🏿 man dancing: dark skin tone
-🕴️ man in suit levitating
-🕴 man in suit levitating
-🕴🏻 man in suit levitating: light skin tone
-🕴🏼 man in suit levitating: medium-light skin tone
-🕴🏽 man in suit levitating: medium skin tone
-🕴🏾 man in suit levitating: medium-dark skin tone
-🕴🏿 man in suit levitating: dark skin tone
+🕴️ person in suit levitating
+🕴 person in suit levitating
+🕴🏻 person in suit levitating: light skin tone
+🕴🏼 person in suit levitating: medium-light skin tone
+🕴🏽 person in suit levitating: medium skin tone
+🕴🏾 person in suit levitating: medium-dark skin tone
+🕴🏿 person in suit levitating: dark skin tone
 👯 people with bunny ears
 👯‍♂️ men with bunny ears
 👯‍♂ men with bunny ears
@@ -2555,6 +2643,7 @@
 🗣 speaking head
 👤 bust in silhouette
 👥 busts in silhouette
+🫂 people hugging
 👣 footprints
 🏻 light skin tone
 🏼 medium-light skin tone
@@ -2579,6 +2668,7 @@
 🦝 raccoon
 🐱 cat face
 🐈 cat
+🐈‍⬛ black cat
 🦁 lion
 🐯 tiger face
 🐅 tiger
@@ -2588,6 +2678,7 @@
 🦄 unicorn
 🦓 zebra
 🦌 deer
+🦬 bison
 🐮 cow face
 🐂 ox
 🐃 water buffalo
@@ -2604,6 +2695,7 @@
 🦙 llama
 🦒 giraffe
 🐘 elephant
+🦣 mammoth
 🦏 rhinoceros
 🦛 hippopotamus
 🐭 mouse face
@@ -2614,9 +2706,12 @@
 🐇 rabbit
 🐿️ chipmunk
 🐿 chipmunk
+🦫 beaver
 🦔 hedgehog
 🦇 bat
 🐻 bear
+🐻‍❄️ polar bear
+🐻‍❄ polar bear
 🐨 koala
 🐼 panda
 🦥 sloth
@@ -2639,6 +2734,8 @@
 🦆 duck
 🦢 swan
 🦉 owl
+🦤 dodo
+🪶 feather
 🦩 flamingo
 🦚 peacock
 🦜 parrot
@@ -2654,6 +2751,7 @@
 🐳 spouting whale
 🐋 whale
 🐬 dolphin
+🦭 seal
 🐟 fish
 🐠 tropical fish
 🐡 blowfish
@@ -2665,14 +2763,18 @@
 🐛 bug
 🐜 ant
 🐝 honeybee
+🪲 beetle
 🐞 lady beetle
 🦗 cricket
+🪳 cockroach
 🕷️ spider
 🕷 spider
 🕸️ spider web
 🕸 spider web
 🦂 scorpion
 🦟 mosquito
+🪰 fly
+🪱 worm
 🦠 microbe
 💐 bouquet
 🌸 cherry blossom
@@ -2686,6 +2788,7 @@
 🌼 blossom
 🌷 tulip
 🌱 seedling
+🪴 potted plant
 🌲 evergreen tree
 🌳 deciduous tree
 🌴 palm tree
@@ -2712,8 +2815,10 @@
 🍑 peach
 🍒 cherries
 🍓 strawberry
+🫐 blueberries
 🥝 kiwi fruit
 🍅 tomato
+🫒 olive
 🥥 coconut
 🥑 avocado
 🍆 eggplant
@@ -2722,6 +2827,7 @@
 🌽 ear of corn
 🌶️ hot pepper
 🌶 hot pepper
+🫑 bell pepper
 🥒 cucumber
 🥬 leafy green
 🥦 broccoli
@@ -2733,6 +2839,7 @@
 🍞 bread
 🥐 croissant
 🥖 baguette bread
+🫓 flatbread
 🥨 pretzel
 🥯 bagel
 🥞 pancakes
@@ -2749,12 +2856,14 @@
 🥪 sandwich
 🌮 taco
 🌯 burrito
+🫔 tamale
 🥙 stuffed flatbread
 🧆 falafel
 🥚 egg
 🍳 cooking
 🥘 shallow pan of food
 🍲 pot of food
+🫕 fondue
 🥣 bowl with spoon
 🥗 green salad
 🍿 popcorn
@@ -2800,6 +2909,7 @@
 🍼 baby bottle
 🥛 glass of milk
 ☕ hot beverage
+🫖 teapot
 🍵 teacup without handle
 🍶 sake
 🍾 bottle with popping cork
@@ -2811,6 +2921,7 @@
 🥂 clinking glasses
 🥃 tumbler glass
 🥤 cup with straw
+🧋 bubble tea
 🧃 beverage box
 🧉 mate
 🧊 ice
@@ -2852,6 +2963,9 @@
 🏗️ building construction
 🏗 building construction
 🧱 brick
+🪨 rock
+🪵 wood
+🛖 hut
 🏘️ houses
 🏘 houses
 🏚️ derelict house
@@ -2924,6 +3038,7 @@
 🚗 automobile
 🚘 oncoming automobile
 🚙 sport utility vehicle
+🛻 pickup truck
 🚚 delivery truck
 🚛 articulated lorry
 🚜 tractor
@@ -2938,6 +3053,7 @@
 🚲 bicycle
 🛴 kick scooter
 🛹 skateboard
+🛼 roller skate
 🚏 bus stop
 🛣️ motorway
 🛣 motorway
@@ -3143,6 +3259,7 @@
 🪁 kite
 🎱 pool 8 ball
 🔮 crystal ball
+🪄 magic wand
 🧿 nazar amulet
 🎮 video game
 🕹️ joystick
@@ -3151,6 +3268,8 @@
 🎲 game die
 🧩 puzzle piece
 🧸 teddy bear
+🪅 piñata
+🪆 nesting dolls
 ♠️ spade suit
 ♠ spade suit
 ♥️ heart suit
@@ -3169,7 +3288,9 @@
 🖼 framed picture
 🎨 artist palette
 🧵 thread
+🪡 sewing needle
 🧶 yarn
+🪢 knot
 👓 glasses
 🕶️ sunglasses
 🕶 sunglasses
@@ -3197,6 +3318,7 @@
 🛍️ shopping bags
 🛍 shopping bags
 🎒 backpack
+🩴 thong sandal
 👞 man’s shoe
 👟 running shoe
 🥾 hiking boot
@@ -3210,6 +3332,7 @@
 🎩 top hat
 🎓 graduation cap
 🧢 billed cap
+🪖 military helmet
 ⛑️ rescue worker’s helmet
 ⛑ rescue worker’s helmet
 📿 prayer beads
@@ -3238,12 +3361,14 @@
 🎧 headphone
 📻 radio
 🎷 saxophone
+🪗 accordion
 🎸 guitar
 🎹 musical keyboard
 🎺 trumpet
 🎻 violin
 🪕 banjo
 🥁 drum
+🪘 long drum
 📱 mobile phone
 📲 mobile phone with arrow
 ☎️ telephone
@@ -3308,6 +3433,7 @@
 🏷️ label
 🏷 label
 💰 money bag
+🪙 coin
 💴 yen banknote
 💵 dollar banknote
 💶 euro banknote
@@ -3316,8 +3442,6 @@
 💳 credit card
 🧾 receipt
 💹 chart increasing with yen
-💱 currency exchange
-💲 heavy dollar sign
 ✉️ envelope
 ✉ envelope
 📧 e-mail
@@ -3397,10 +3521,13 @@
 ⚔️ crossed swords
 ⚔ crossed swords
 🔫 pistol
+🪃 boomerang
 🏹 bow and arrow
 🛡️ shield
 🛡 shield
+🪚 carpentry saw
 🔧 wrench
+🪛 screwdriver
 🔩 nut and bolt
 ⚙️ gear
 ⚙ gear
@@ -3408,12 +3535,14 @@
 🗜 clamp
 ⚖️ balance scale
 ⚖ balance scale
-🦯 probing cane
+🦯 white cane
 🔗 link
 ⛓️ chains
 ⛓ chains
+🪝 hook
 🧰 toolbox
 🧲 magnet
+🪜 ladder
 ⚗️ alembic
 ⚗ alembic
 🧪 test tube
@@ -3428,30 +3557,39 @@
 🩹 adhesive bandage
 🩺 stethoscope
 🚪 door
+🛗 elevator
+🪞 mirror
+🪟 window
 🛏️ bed
 🛏 bed
 🛋️ couch and lamp
 🛋 couch and lamp
 🪑 chair
 🚽 toilet
+🪠 plunger
 🚿 shower
 🛁 bathtub
+🪤 mouse trap
 🪒 razor
 🧴 lotion bottle
 🧷 safety pin
 🧹 broom
 🧺 basket
 🧻 roll of paper
+🪣 bucket
 🧼 soap
+🪥 toothbrush
 🧽 sponge
 🧯 fire extinguisher
 🛒 shopping cart
 🚬 cigarette
 ⚰️ coffin
 ⚰ coffin
+🪦 headstone
 ⚱️ funeral urn
 ⚱ funeral urn
 🗿 moai
+🪧 placard
 🏧 ATM sign
 🚮 litter in bin sign
 🚰 potable water
@@ -3587,10 +3725,29 @@
 ♀ female sign
 ♂️ male sign
 ♂ male sign
-⚕️ medical symbol
-⚕ medical symbol
+⚧️ transgender symbol
+⚧ transgender symbol
+✖️ multiply
+✖ multiply
+➕ plus
+➖ minus
+➗ divide
 ♾️ infinity
 ♾ infinity
+‼️ double exclamation mark
+‼ double exclamation mark
+⁉️ exclamation question mark
+⁉ exclamation question mark
+❓ question mark
+❔ white question mark
+❕ white exclamation mark
+❗ exclamation mark
+〰️ wavy dash
+〰 wavy dash
+💱 currency exchange
+💲 heavy dollar sign
+⚕️ medical symbol
+⚕ medical symbol
 ♻️ recycling symbol
 ♻ recycling symbol
 ⚜️ fleur-de-lis
@@ -3604,13 +3761,8 @@
 ☑ check box with check
 ✔️ check mark
 ✔ check mark
-✖️ multiplication sign
-✖ multiplication sign
 ❌ cross mark
 ❎ cross mark button
-➕ plus sign
-➖ minus sign
-➗ division sign
 ➰ curly loop
 ➿ double curly loop
 〽️ part alternation mark
@@ -3621,16 +3773,6 @@
 ✴ eight-pointed star
 ❇️ sparkle
 ❇ sparkle
-‼️ double exclamation mark
-‼ double exclamation mark
-⁉️ exclamation question mark
-⁉ exclamation question mark
-❓ question mark
-❔ white question mark
-❕ white exclamation mark
-❗ exclamation mark
-〰️ wavy dash
-〰 wavy dash
 ©️ copyright
 © copyright
 ®️ registered
@@ -3757,6 +3899,10 @@
 🏳 white flag
 🏳️‍🌈 rainbow flag
 🏳‍🌈 rainbow flag
+🏳️‍⚧️ transgender flag
+🏳‍⚧️ transgender flag
+🏳️‍⚧ transgender flag
+🏳‍⚧ transgender flag
 🏴‍☠️ pirate flag
 🏴‍☠ pirate flag
 🇦🇨 flag: Ascension Island

@@ -1,4 +1,6 @@
-# Download all emoji to a file
+# Download emoji to a file
+
+Uses version 13.0 emojis from https://unicode.org/.
 
 Generate the emoji file:
 ```

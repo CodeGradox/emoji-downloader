@@ -5,7 +5,7 @@
 require "net/http"
 require "uri"
 
-VERSION = 12.1
+VERSION = 13.0
 
 request = Net::HTTP.get URI("https://unicode.org/Public/emoji/#{VERSION}/emoji-test.txt")
 
